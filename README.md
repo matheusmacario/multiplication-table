@@ -3,5 +3,14 @@
 <br>
 <br>
 
-![screenshot](https://github.com/matheusmacario/multiplication-table/blob/main/project-screenshot.JPG)
+### How it is :
+<br>
+
+![gif](https://github.com/matheusmacario/multiplication-table/blob/main/multiplication-table.gif)
+
+
+### Screenshot :
+<br>
+
+![screenshot](https://github.com/matheusmacario/multiplication-table/blob/main/screenshot_mp.JPG)
 
